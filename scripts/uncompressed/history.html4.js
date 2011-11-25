@@ -600,7 +600,4 @@
 
 	}; // History.initHtml4
 
-	// Try and Initialise History
-	History.init();
-
 })(window);
